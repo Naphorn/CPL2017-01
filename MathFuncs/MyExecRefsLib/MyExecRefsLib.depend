@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1507184939 source:d:\study ed.engineer\computer laboratory\myexecrefslib\myexecrefslib.cpp
+	<iostream>
+	"MathFuncsLib.h"
+
+1507184939 d:\study ed.engineer\computer laboratory\myexecrefslib\mathfuncslib.h
+
+1507184939 source:d:\study ed.engineer\computer laboratory\mathfuncs\myexecrefslib\myexecrefslib.cpp
+	<iostream>
+	"MathFuncsLib.h"
+
+1507184939 d:\study ed.engineer\computer laboratory\mathfuncs\myexecrefslib\mathfuncslib.h
+
+1507184939 source:e:\gamgamms\computer laboratory\mathfuncs\myexecrefslib\myexecrefslib.cpp
+	<iostream>
+	"MathFuncsLib.h"
+
+1507184939 e:\gamgamms\computer laboratory\mathfuncs\myexecrefslib\mathfuncslib.h
+

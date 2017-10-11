@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1507184939 source:d:\study ed.engineer\computer laboratory\mathfuncs\mathfuncslib.cpp
+	"MathFuncsLib.h"
+	<stdexcept>
+
+1507184939 d:\study ed.engineer\computer laboratory\mathfuncs\mathfuncslib.h
+
